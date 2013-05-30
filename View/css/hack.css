@@ -1,0 +1,60 @@
+#overviewTable, #informationDetailTable {
+    font-weight: bold;
+}
+
+.tr{
+    background:#f0f0f0
+}
+
+.odd{
+    background:#9B9B9B
+}
+
+#message-red	{
+    margin-bottom: 5px;
+}
+.red-left	{
+    background: url(../../View/Images/message_red.gif) top left no-repeat;
+    color: #ce2700;
+    font-family: Tahoma;
+    font-weight: bold;
+    padding: 0 0 0 20px;
+}
+.red-left a	{
+    color: #ce2700;
+    font-family: Tahoma;
+    font-weight: normal;
+    text-decoration: underline;
+}
+.red-right a	{
+    cursor: pointer;
+}
+.red-right	{
+    width: 55px;
+}
+
+#titleH3, .paginate_click {
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: bold;
+    color: #5494af;
+}
+
+td{
+    width: 50px;
+}
+
+.box{
+    width:671px !important;width:680px;
+    height:191px !important;height : 200px;
+    overflow:auto;padding: 4px;
+}
+
+.tableExpired{
+
+}
+
+
+
+
+
