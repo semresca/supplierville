@@ -5,4 +5,5 @@ session_start();
 //echo count($_SESSION);    
 $newPage = new DashBoard();
 $newPage->show();
+echo "meo";
 ?>
